@@ -1,0 +1,11 @@
+E:\C#\Yazılan Sayının Rakamlarının Toplanması\Yazılan Sayının Rakamlarının Toplanması\obj\Debug\netcoreapp2.0\Yazılan Sayının Rakamlarının Toplanması.csprojResolveAssemblyReference.cache
+E:\C#\Yazılan Sayının Rakamlarının Toplanması\Yazılan Sayının Rakamlarının Toplanması\obj\Debug\netcoreapp2.0\Yazılan Sayının Rakamlarının Toplanması.csproj.CoreCompileInputs.cache
+E:\C#\Yazılan Sayının Rakamlarının Toplanması\Yazılan Sayının Rakamlarının Toplanması\obj\Debug\netcoreapp2.0\Yazılan Sayının Rakamlarının Toplanması.AssemblyInfoInputs.cache
+E:\C#\Yazılan Sayının Rakamlarının Toplanması\Yazılan Sayının Rakamlarının Toplanması\obj\Debug\netcoreapp2.0\Yazılan Sayının Rakamlarının Toplanması.AssemblyInfo.cs
+E:\C#\Yazılan Sayının Rakamlarının Toplanması\Yazılan Sayının Rakamlarının Toplanması\bin\Debug\netcoreapp2.0\Yazılan Sayının Rakamlarının Toplanması.deps.json
+E:\C#\Yazılan Sayının Rakamlarının Toplanması\Yazılan Sayının Rakamlarının Toplanması\bin\Debug\netcoreapp2.0\Yazılan Sayının Rakamlarının Toplanması.runtimeconfig.json
+E:\C#\Yazılan Sayının Rakamlarının Toplanması\Yazılan Sayının Rakamlarının Toplanması\bin\Debug\netcoreapp2.0\Yazılan Sayının Rakamlarının Toplanması.runtimeconfig.dev.json
+E:\C#\Yazılan Sayının Rakamlarının Toplanması\Yazılan Sayının Rakamlarının Toplanması\bin\Debug\netcoreapp2.0\Yazılan Sayının Rakamlarının Toplanması.dll
+E:\C#\Yazılan Sayının Rakamlarının Toplanması\Yazılan Sayının Rakamlarının Toplanması\bin\Debug\netcoreapp2.0\Yazılan Sayının Rakamlarının Toplanması.pdb
+E:\C#\Yazılan Sayının Rakamlarının Toplanması\Yazılan Sayının Rakamlarının Toplanması\obj\Debug\netcoreapp2.0\Yazılan Sayının Rakamlarının Toplanması.dll
+E:\C#\Yazılan Sayının Rakamlarının Toplanması\Yazılan Sayının Rakamlarının Toplanması\obj\Debug\netcoreapp2.0\Yazılan Sayının Rakamlarının Toplanması.pdb
