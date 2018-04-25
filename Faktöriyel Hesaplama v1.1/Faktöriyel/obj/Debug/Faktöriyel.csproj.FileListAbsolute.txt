@@ -1,0 +1,9 @@
+E:\C#\Faktöriyel\Faktöriyel\bin\Debug\Faktöriyel.exe.config
+E:\C#\Faktöriyel\Faktöriyel\bin\Debug\Faktöriyel.exe
+E:\C#\Faktöriyel\Faktöriyel\bin\Debug\Faktöriyel.pdb
+E:\C#\Faktöriyel\Faktöriyel\obj\Debug\Faktöriyel.Form1.resources
+E:\C#\Faktöriyel\Faktöriyel\obj\Debug\Faktöriyel.Properties.Resources.resources
+E:\C#\Faktöriyel\Faktöriyel\obj\Debug\Faktöriyel.csproj.GenerateResource.Cache
+E:\C#\Faktöriyel\Faktöriyel\obj\Debug\Faktöriyel.csproj.CoreCompileInputs.cache
+E:\C#\Faktöriyel\Faktöriyel\obj\Debug\Faktöriyel.exe
+E:\C#\Faktöriyel\Faktöriyel\obj\Debug\Faktöriyel.pdb
