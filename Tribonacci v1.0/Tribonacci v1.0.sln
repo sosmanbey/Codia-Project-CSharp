@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tribonacci v1.0", "Tribonacci v1.0\Tribonacci v1.0.csproj", "{628D1FA1-38D6-4CE8-A443-58961BC1268D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{628D1FA1-38D6-4CE8-A443-58961BC1268D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628D1FA1-38D6-4CE8-A443-58961BC1268D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628D1FA1-38D6-4CE8-A443-58961BC1268D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628D1FA1-38D6-4CE8-A443-58961BC1268D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5373D307-A2B2-4209-85A5-10F3F5AC3862}
+	EndGlobalSection
+EndGlobal
