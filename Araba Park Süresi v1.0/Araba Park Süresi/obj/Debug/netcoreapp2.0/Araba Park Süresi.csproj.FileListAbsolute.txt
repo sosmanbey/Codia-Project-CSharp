@@ -1,0 +1,11 @@
+C:\Users\Şaban\Desktop\CSharp\Araba Park Süresi\Araba Park Süresi\bin\Debug\netcoreapp2.0\Araba Park Süresi.deps.json
+C:\Users\Şaban\Desktop\CSharp\Araba Park Süresi\Araba Park Süresi\bin\Debug\netcoreapp2.0\Araba Park Süresi.runtimeconfig.json
+C:\Users\Şaban\Desktop\CSharp\Araba Park Süresi\Araba Park Süresi\bin\Debug\netcoreapp2.0\Araba Park Süresi.runtimeconfig.dev.json
+C:\Users\Şaban\Desktop\CSharp\Araba Park Süresi\Araba Park Süresi\bin\Debug\netcoreapp2.0\Araba Park Süresi.dll
+C:\Users\Şaban\Desktop\CSharp\Araba Park Süresi\Araba Park Süresi\bin\Debug\netcoreapp2.0\Araba Park Süresi.pdb
+C:\Users\Şaban\Desktop\CSharp\Araba Park Süresi\Araba Park Süresi\obj\Debug\netcoreapp2.0\Araba Park Süresi.csprojResolveAssemblyReference.cache
+C:\Users\Şaban\Desktop\CSharp\Araba Park Süresi\Araba Park Süresi\obj\Debug\netcoreapp2.0\Araba Park Süresi.csproj.CoreCompileInputs.cache
+C:\Users\Şaban\Desktop\CSharp\Araba Park Süresi\Araba Park Süresi\obj\Debug\netcoreapp2.0\Araba Park Süresi.AssemblyInfoInputs.cache
+C:\Users\Şaban\Desktop\CSharp\Araba Park Süresi\Araba Park Süresi\obj\Debug\netcoreapp2.0\Araba Park Süresi.AssemblyInfo.cs
+C:\Users\Şaban\Desktop\CSharp\Araba Park Süresi\Araba Park Süresi\obj\Debug\netcoreapp2.0\Araba Park Süresi.dll
+C:\Users\Şaban\Desktop\CSharp\Araba Park Süresi\Araba Park Süresi\obj\Debug\netcoreapp2.0\Araba Park Süresi.pdb
